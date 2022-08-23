@@ -1,0 +1,10 @@
+.figure-img{
+  width:500px;
+  height:500px;
+  float:none;
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+.navbar {width: 120px;background: #222;}
+#main {margin-left: 120px}
